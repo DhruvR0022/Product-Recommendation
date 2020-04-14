@@ -12,7 +12,7 @@ class result:
     def getResult(self):
         self.website = 'flipkart'
         self.start_pages = 0
-        self.end_pages = 1
+        self.end_pages = 3
         self.no_of_threads = 4
         self.webCrawlerObj = WebCrawler(self.title, self.website, self.start_pages, self.end_pages, self.no_of_threads)
         self.webCrawlerObj.scrapIt()
