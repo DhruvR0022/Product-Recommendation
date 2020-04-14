@@ -151,5 +151,5 @@ class GUI:
             b6.grid(row=12 + i, column=5, padx=25, pady=10)
 
 
-obj = GUI()
-obj.start()
+#   obj = GUI()
+#   obj.start()
