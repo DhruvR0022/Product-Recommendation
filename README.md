@@ -17,7 +17,7 @@ pip install pandas
   First User will present with following UI where user can enter product, minimum price and maximum price.
   <br/><br/>![](images/image0.png)<br/><br/>
   After clicking in search button it will open loading window while crawler scrape the site. it will take around few seconds for
-  crawler to search enter product in website search bar and scrape from 48-80 different product based of amount page ans amount of number thread set in code 
+  crawler to search enter product in website search bar and scrape from 48-80 different product based of amount page and amount of number thread set in code 
   <br/><br/>![](images/loadingGIF.gif)<br/><br/>
   This Crawler can scrape as many as 700-800 products without any problem in few miniutes. Both no. of product and no. of threads(for multi-threading) are variable which are can be change by changing argument values to web crawler class.
   <br/><br/>![](images/image2.png)<br/><br/>
