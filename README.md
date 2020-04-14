@@ -21,6 +21,7 @@ pip install pandas
   <br/><br/>![](images/image1.png)<br/><br/>
   This Crawler can scrape as many as 700-800 products without any problem in few miniutes. Both no. of product and no. of threads(for multi-threading) are variable which are can be change by changing argument values to web crawler class.
   <br/><br/>![](images/image2.png)<br/><br/>
-  After Scraping all the data are saved in .csv file and with the help of _pandas_ by manipulate data we find best product for user in given budget with best ratings and the amount of buyers. 
+  After Scraping all the data are saved in .csv file and with the help of _pandas_ by manipulate data we find best product for user in given budget with best ratings and the amount of buyers.
+  Below is image is representing example of link button.
   <br/><br/>![](images/image3.png)<br/><br/>
   In UI there is direct link given to each product page.
