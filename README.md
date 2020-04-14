@@ -15,7 +15,7 @@ pip install pandas
   
  # Description
   First User will present with following UI where user can enter product, minimum price and maximum price.
-  <br/>[](images/image0.png)<br/>
+  <br/>![](images/image0.png)<br/>
   After clicking in search button it will open loading window while crawler scrape the site. it will take around few seconds for
   crawler to search enter product in website search bar and scrape from 48-80 different product based of amount page ans amount of number thread set in code 
   <br/>```image1```<br/>
