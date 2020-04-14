@@ -1,8 +1,8 @@
 # web_crawler
 A GUI app made in tkinter which crawl e-commerce site and find best product in user's budget.
-# prerequisite
+# Prerequisite
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install  library
-[tkinter](https://docs.python.org/3/library/tkinter.html) documentation
+and tkinter from [here.](https://docs.python.org/3/library/tkinter.html)
 ```bash
 pip install beautifulsoup4
 ```
