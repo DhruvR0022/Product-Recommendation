@@ -43,8 +43,8 @@ class FindBestItem:
 
     # name itself tells it
     def filter_products_based_on_discounted_price(self):
-        minimum_rating = 4  # self.data['rating'].mean()
-        min_buyer_number = 10000    # self.data['rating_number'].mean()
+        minimum_rating = self.data['rating'].mean()
+        min_buyer_number = self.data['rating_number'].mean()
         temp = self.data[
             ((self.data['discounted_price'] > self.min_price) & (self.data['discounted_price'] <= self.max_price))]
         temp = temp[((temp['rating'] > minimum_rating) & (temp['rating_number'] > min_buyer_number))].sort_values(
