@@ -24,5 +24,5 @@ pip install pandas
   After Scraping all the data are saved in .csv file and with the help of _pandas_ by manipulate data we find best product for user in given budget with best ratings and the amount of buyers.
   Below is image is representing example of link button.
   <br/><br/>![](images/image3.png)<br/><br/>
-  In UI there is direct link given to each product page.
+  In UI there is direct link given to each product page.<br/>
 Video [link.](https://drive.google.com/open?id=1oTGFIzBrQmikYk3uWWMc6aH7C4kf5ihB)
