@@ -25,3 +25,4 @@ pip install pandas
   Below is image is representing example of link button.
   <br/><br/>![](images/image3.png)<br/><br/>
   In UI there is direct link given to each product page.
+Video [link.](https://drive.google.com/open?id=1oTGFIzBrQmikYk3uWWMc6aH7C4kf5ihB)
